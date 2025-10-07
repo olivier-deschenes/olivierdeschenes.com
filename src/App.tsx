@@ -13,7 +13,7 @@ export default function App() {
           <img
             src="./photo.webp"
             alt="me bro"
-            className={"w-20 aspect-square rounded-md"}
+            className={"w-20 aspect-square rounded-md hover:animate-spin"}
           />
         </div>
         <div>
